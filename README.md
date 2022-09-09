@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # README #
 
 This README would normally document whatever steps are necessary to get your application up and running.
@@ -28,6 +27,4 @@ This README would normally document whatever steps are necessary to get your app
 
 * Repo owner or admin
 * Other community or team contact
-=======
-# -iNeuron
->>>>>>> bdb55a63729dd3a4f20ef6c424da8dd9ecffbf3b
+
